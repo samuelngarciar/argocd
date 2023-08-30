@@ -1,1 +1,1 @@
-# fluxcd
+# argocd
